@@ -1,0 +1,19 @@
+li {
+  list-style-type: none;
+  padding: 10px;
+  i {
+    margin-right: 8px;
+  }
+}
+
+.rounded-border {
+  border-radius: 20px;
+}
+
+hr {
+  color: #bbb;
+}
+
+.ls-1 {
+  letter-spacing: 1px;
+}
